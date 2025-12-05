@@ -8,6 +8,7 @@ gisdata==0.5.4
 idna==2.9
 jinja2==2.11.1
 markupsafe==1.1.1
+h5py==3.10.0
 netCDF4==1.6.5
 numpy==1.18.2
 pyyaml==5.3.1
